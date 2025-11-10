@@ -32,17 +32,17 @@ module.exports.run = async function({ api, event }) {
 /Bot  
 /Info  
 
-𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫➢ 𝐌ohammad Akash`;
+𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫➢ • ─꯭─⃝‌‌𝐂𝐄𝐎ニ 𝐀𝐒𝐇𝐈𝐊...🍎💗🍎`;
 
     // লোকাল ফাইল path
     const filePath = path.join(__dirname, 'cyber.jpg');
 
     // নতুন ইমেজ লিংকগুলো
     const images = [
-        'https://i.imgur.com/DupWbqg.png',
-        'https://i.imgur.com/d8UDx2y.png',
-        'https://i.imgur.com/e8g87Wt.png',
-        'https://i.imgur.com/omTvdkh.png'
+        'https://i.imgur.com/CjLgRxB.jpeg',
+        'https://i.imgur.com/CjLgRxB.jpeg',
+        'https://i.imgur.com/CjLgRxB.jpeg',
+        'https://i.imgur.com/CjLgRxB.jpeg'
     ];
 
     // র্যান্ডম ইমেজ বেছে নেওয়া
