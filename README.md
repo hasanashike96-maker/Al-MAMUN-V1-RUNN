@@ -1,7 +1,7 @@
 # 🤖 CHAT-BOT-MEHEDI-V1
 
 <p align="center">
-  <img src="https://i.imgur.com/22jvZAY.jpeg" width="800" height="800" style="border-radius:50%;">
+  <https://i.imgur.com/H0bnag2.jpeg" width="800" height="800" style="border-radius:50%;">
 </p>
 
 <p align="center">
